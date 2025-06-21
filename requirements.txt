@@ -1,0 +1,16 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+pydantic==2.7.1
+
+gradio==4.27.0
+
+scikit-learn==1.6.1
+pandas==2.2.2
+numpy==1.26.4
+xgboost==2.0.3
+imbalanced-learn==0.12.2
+joblib==1.4.2
+
+# Optional for local dev
+python-dotenv==1.0.1
+
